@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Léo</h1>
-<h3 align="center">Welcome to my page! I'm a Fullstack developer from Rennes, France.</h3>
+<h3 align="center">Welcome to my page! I'm a Fullstack developer from ** 🇫🇷 Rennes, France**.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leobessin&label=Profile%20views&color=0e75b6&style=flat" alt="leobessin" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web design, UI/UX and Web development**
 
-- 📫 How to reach me **leo-bessin@pro.dev**
+- 📫 How to reach me **pro@leo-bessin.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
