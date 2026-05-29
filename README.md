@@ -15,7 +15,7 @@
 
 <br/>
 
-I build web products — design-aware, end-to-end.
+I build web products - design-aware, end-to-end.
 Currently shipping at **LINUSCULE**, diving into game dev with **Godot**.
 I care about clean interfaces, solid backends, and tools that actually work.
 
