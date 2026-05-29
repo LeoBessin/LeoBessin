@@ -16,7 +16,7 @@
 <br/>
 
 I build web products — design-aware, end-to-end.
-Currently shipping at **LINUSCULE**, exploring no-code workflows with **Framer**.
+Currently shipping at **LINUSCULE**, diving into game dev with **Godot**.
 I care about clean interfaces, solid backends, and tools that actually work.
 
 <br/>
@@ -51,15 +51,15 @@ I build and share tools I'd actually want to use.
 
 <p align="center">
   <a href="https://github.com/LeoBessin/quiet-velvet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoBessin&repo=quiet-velvet&theme=tokyonight&border_color=a78bfa" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=LeoBessin&repo=quiet-velvet&theme=tokyonight&border_color=a78bfa" />
   </a>
   <a href="https://github.com/LeoBessin/aerarium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoBessin&repo=aerarium&theme=tokyonight&border_color=a78bfa" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=LeoBessin&repo=aerarium&theme=tokyonight&border_color=a78bfa" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/LeoBessin/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoBessin&repo=dotfiles&theme=tokyonight&border_color=a78bfa" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=LeoBessin&repo=dotfiles&theme=tokyonight&border_color=a78bfa" />
   </a>
 </p>
 
@@ -70,8 +70,8 @@ I build and share tools I'd actually want to use.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leobessin&show_icons=true&theme=tokyonight&border_color=a78bfa&rank_icon=github&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leobessin&layout=compact&theme=tokyonight&border_color=a78bfa&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=leobessin&show_icons=true&theme=tokyonight&border_color=a78bfa&rank_icon=github&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=leobessin&layout=compact&theme=tokyonight&border_color=a78bfa&langs_count=8" height="165" />
 </p>
 
 <p align="center">
