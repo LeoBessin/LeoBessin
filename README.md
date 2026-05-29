@@ -1,26 +1,102 @@
-<h1 align="center">Hi 👋, I'm Léo</h1>
-<h3 align="center">Welcome to my page! I'm a Fullstack developer from :fr: Rennes, France.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Léo%20Bessin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20Rennes%2C%20France&descAlignY=58&descSize=18&descColor=cccccc" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leobessin&label=Profile%20views&color=0e75b6&style=flat" alt="leobessin" /> </p>
-
-- 🔭 I’m currently working at **@LINUSCULE**
-
-- 🌱 I’m currently learning **Framer**
-
-- 💬 Ask me about **Web design, UI/UX and Web development**
-
-- 📫 How to reach me **pro@leo-bessin.dev**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/00h37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="00h37" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/léo-bessin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="léo-bessin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/00h37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="00h37" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=480&lines=Fullstack+Developer;UI+%2F+UX+%C2%B7+Design+systems;TypeScript+%C2%B7+React+%C2%B7+Node.js;Building+at+%40LINUSCULE;Always+exploring+something+new" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leobessin&style=flat-square&color=a78bfa&label=profile+views" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/LeoBessin?style=flat-square&color=a78bfa&labelColor=1a1a2e&label=followers" alt="followers" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leobessin&show_icons=true&locale=en&layout=compact" alt="leobessin" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leobessin&show_icons=true&locale=en" alt="leobessin" /></p>
+<br/>
+
+I build web products — design-aware, end-to-end.
+Currently shipping at **LINUSCULE**, exploring no-code workflows with **Framer**.
+I care about clean interfaces, solid backends, and tools that actually work.
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,java,postgres,mongodb,mysql,graphql,firebase)](https://skillicons.dev)
+
+**DevOps & Cloud**
+
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,aws,gcp,git,linux)](https://skillicons.dev)
+
+**Design & Tools**
+
+[![Design Skills](https://skillicons.dev/icons?i=figma,illustrator,photoshop)](https://skillicons.dev)
+
+<br/>
+
+---
+
+## 🌱 Open Source
+
+I build and share tools I'd actually want to use.
+
+<p align="center">
+  <a href="https://github.com/LeoBessin/quiet-velvet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoBessin&repo=quiet-velvet&theme=tokyonight&border_color=a78bfa" />
+  </a>
+  <a href="https://github.com/LeoBessin/aerarium">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoBessin&repo=aerarium&theme=tokyonight&border_color=a78bfa" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/LeoBessin/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoBessin&repo=dotfiles&theme=tokyonight&border_color=a78bfa" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leobessin&show_icons=true&theme=tokyonight&border_color=a78bfa&rank_icon=github&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leobessin&layout=compact&theme=tokyonight&border_color=a78bfa&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leobessin&theme=tokyonight&border=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+</p>
+
+<br/>
+
+---
+
+## 📬 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/léo-bessin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/00h37">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="mailto:pro@leo-bessin.dev">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/00h37">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
